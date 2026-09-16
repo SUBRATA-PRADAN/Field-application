@@ -1,6 +1,6 @@
 {
-  "name": "PRADAN Field Toolkit",
-  "short_name": "Field Toolkit",
+  "name": "PRADAN Field Application",
+  "short_name": "Field Survey",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
